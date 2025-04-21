@@ -9,3 +9,5 @@ import ch.qos.logback.core.joran.event.SaxEvent;
 public interface StudentRepository  extends JpaRepository<SaxEvent,Integer>{
 
 }
+
+
